@@ -37,12 +37,12 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SanjayThanigaivelu&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
- <picture>
+<picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com//SanjayThanigaivelu/its_Sanjay/output/github-contribution-grid-snake-dark.svg"
+    srcset="https://raw.githubusercontent.com/SanjayThanigaivelu/its_Sanjay/output/github-contribution-grid-snake-dark.svg"
   />
-    <source
+  <source
     media="(prefers-color-scheme: light)"
     srcset="https://raw.githubusercontent.com/SanjayThanigaivelu/its_Sanjay/output/github-contribution-grid-snake.svg"
   />
